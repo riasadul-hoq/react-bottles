@@ -7,3 +7,9 @@
 img {
   width: 200px;
 }
+
+.bottle-button {
+  background-color: aquamarine;
+  border: 2px solid blueviolet;
+  border-radius: 5px;
+}
